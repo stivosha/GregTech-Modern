@@ -225,7 +225,7 @@ public class ElectricStats implements IInteractionItem, ISubItemHandler, IAddInf
                 currentChargeTime = durationCurrent.toHours();
                 unit = LocalizationUtils.format("item.gtceu.battery.charge_unit.hour");
             }
-            tooltip.add(Component.translatable("item.gtceu.battery.charge_detailed",
+            tooltip.add(Component.translatable("item.gtceu.battery.charge_remaining",
                     FormattingUtil.formatNumbers(currentCharge), FormattingUtil.formatNumbers(maxCharge),
                     GTValues.VNF[tier],
                     FormattingUtil.formatNumbers(currentChargeTime), FormattingUtil.formatNumbers(maxChargeTime),

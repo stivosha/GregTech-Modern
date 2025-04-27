@@ -3626,7 +3626,7 @@
   "item.gtceu.basic_integrated_circuit.tooltip.1": "§cLV時代の回路",
   "item.gtceu.basic_tape": "テープ",
   "item.gtceu.basic_tape.tooltip": "§7機械的な問題に対する強度が不十分\nアイテムを落とさずに木箱を入手することができる。",
-  "item.gtceu.battery.charge_detailed": "%s/%s EU§7 - Tier %s §7(%s/%s %s 放出可能§7)",
+  "item.gtceu.battery.charge_remaining": "%s/%s EU§7 - Tier %s §7(%s/%s %s 放出可能§7)",
   "item.gtceu.battery.charge_time": "§a %s %s 放出可能(%s)",
   "item.gtceu.battery.charge_unit.hour": "時間",
   "item.gtceu.battery.charge_unit.minute": "分",
